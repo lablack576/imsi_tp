@@ -1,0 +1,25 @@
+body{
+    background-color: #111;
+    color: white;
+    font-family: sans-serif;
+}
+
+footer{
+    position: sticky;
+    top: 100%;
+    bottom: 0;
+    padding: 2.4rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: cente;
+}
+
+main {display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 100%;
+gap: 1rem;
+padding: 2.4rem;
+}
